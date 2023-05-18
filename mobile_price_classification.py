@@ -16,7 +16,7 @@ from sklearn.svm import SVC
 
 
 # Load dataset
-url = "D:/workspace/mobile_prices.csv.xls"
+url = "https://raw.githubusercontent.com/HodaHisham27/Expert_Systems_task/main/mobile_prices.csv.xls"
 
 
 dataset = read_csv(url)
